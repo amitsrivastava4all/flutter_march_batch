@@ -1,0 +1,7 @@
+Maintain a Phone Directory  , Maintain Name of a Person and maintain phones, A One person can have N Phones
+Write the Add a New Record in Phone Directory
+Write the Delete a Entrie Record in Phone Directory
+Delete Specific Phone 
+example : Amit has 8888 and 9999 as a phone number i want to delete 8888
+Add a New Phone in Amit Record
+Search By Phone or By Name Option.
