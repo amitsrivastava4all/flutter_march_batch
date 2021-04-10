@@ -1,0 +1,32 @@
+Employee Salary Slip
+Input of the Program
+Id - 1001
+Name - “ram”
+Company Name - Google
+Salary - 9000 (Basic Salary)
+
+Allowances - HRA 30% of the Basic Salary
+9000 30%  ——> 2700
+DA - 10%      900
+
+TA - 20%.      1800
+
+MA - 15%  900 + 450 - 1350
+
+PF - 5% 450
+
+TAX <5L
+5L> 10% of TAX
+7L> 20%
+9L>30%
+
+Earnings
+GS = BS + HRA + DA + TA + MA
+
+Deduction
+ded = TAX + PF
+
+NS = Earning (GS) - deduction
+
+Create 2 files , one contain logic and another is calling class
+
